@@ -17,7 +17,7 @@ Freda Shaw
 Elbert Wood
 
 With extra time allow the user to input new contacts with a UIAlertController and add a detail view.
-
+```
 Contact *contact1 = [sharedInstance createContact];
 contact1.firstName = @"Leslie";
 contact1.lastName = @"Phelps";
@@ -57,3 +57,4 @@ contact9.lastName = @"Watkins";
 Contact *contact10 = [sharedInstance createContact];
 contact10.firstName = @"Nathaniel";
 contact10.lastName = @"Adams";
+```
